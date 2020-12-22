@@ -1,1 +1,0 @@
-# Salesforce DX Project: Folder to Contain applications metadata
