@@ -13,6 +13,13 @@
             "versionName": "ver 0.1",
             "versionNumber": "0.1.0.NEXT",
             "default": false
+        },
+        {
+            "path": "force-app/main/default",
+            "package": "newDefault1",
+            "versionName": "ver 0.1",
+            "versionNumber": "0.1.0.NEXT",
+            "default": false
         }
     ],
     "namespace": "",
@@ -20,6 +27,7 @@
     "sourceApiVersion": "50.0",
     "packageAliases": {
         "defaultDependency": "0Ho2w0000004CkpCAE",
-        "newDefault": "0Ho2w0000004CkuCAE"
+        "newDefault": "0Ho2w0000004CkuCAE",
+        "newDefault1": "0Ho2w0000004CkzCAE"
     }
 }
