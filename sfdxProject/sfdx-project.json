@@ -3,6 +3,14 @@
         {
             "path": "force-app",
             "default": true
+        },
+        {
+            "path" : "salesforce-api-project/OB-01",
+            "default" : false
+        },
+        {
+            "path" : "salesforce-api-project/OB-02",
+            "default" : false
         }
     ],
     "namespace": "",
