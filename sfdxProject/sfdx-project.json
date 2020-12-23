@@ -2,15 +2,11 @@
     "packageDirectories": [
         {
             "path": "force-app",
-            "default": true
+            "default": false
         },
         {
             "path" : "salesforce-api-project/OB-01",
-            "default" : false
-        },
-        {
-            "path" : "salesforce-api-project/OB-02",
-            "default" : false
+            "default" : true
         }
     ],
     "namespace": "",
